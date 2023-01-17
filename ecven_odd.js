@@ -1,6 +1,6 @@
 // Write a program to show even_odd no.
-log x=10;
-if(x%3==0){
+let num=10;
+if(num%2==0){
 cosole.log("It's Even");
 }
 else
